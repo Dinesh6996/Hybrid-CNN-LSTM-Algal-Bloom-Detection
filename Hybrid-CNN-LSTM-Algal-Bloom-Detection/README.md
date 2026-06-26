@@ -4,6 +4,9 @@
 This project presents a Hybrid CNN-LSTM Deep Learning model for detecting algal blooms using water quality parameters. The system predicts whether water is safe or unsafe based on environmental conditions.
 
 ---
+## Project Output
+
+![Accuracy](images/accuracy.png)
 
 ## 🚀 Features
 
@@ -92,6 +95,7 @@ python main_timeseries.py
 ```
 
 ---
+
 
 ## 👨‍💻 Author
 
