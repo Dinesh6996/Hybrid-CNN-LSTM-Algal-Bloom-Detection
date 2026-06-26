@@ -46,6 +46,22 @@ This project presents a Hybrid CNN-LSTM Deep Learning model for detecting algal 
 
 The Hybrid CNN-LSTM model achieved the highest prediction accuracy compared with Random Forest, CNN, and LSTM models.
 
+### Accuracy Comparison
+
+![Accuracy](images/accuracy.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc.png)
+
 ---
 
 ## 📂 Project Structure
